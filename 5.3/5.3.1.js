@@ -1,4 +1,4 @@
   function ucFirst(a) {
     if (!a) return a;
-    return a[0].toUpperCase() + a.slice(1);
+      return a[0].toUpperCase() + a.slice(1);
   }
